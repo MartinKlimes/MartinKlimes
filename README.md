@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Martin Klimeš</h1>
 <h3 align="center">A passionate frontend Vue.js developer from Brno</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 📫 How to reach me **klimes21@gmail.com**
-- 🤝 I am looking for a job as a Vue.js developer. I would be very happy if you could contact me
+##
+📫 How to reach me **klimes21@gmail.com**
 
+🤝 I am looking for a job as a Vue.js developer. I would be very happy if you could contact me.
 
+##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" >
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
