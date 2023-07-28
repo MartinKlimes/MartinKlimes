@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Martin Klimeš</h1>
-<h3 align="center">A passionate frontend Vue.js developer from Brno</h3>
+<h3 align="center">Vue.js developer from Brno</h3>
 
 ##
 📫 How to reach me **klimes21@gmail.com**
