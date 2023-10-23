@@ -1,17 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Martin Klimeš</h1>
-<h3 align="center">Vue.js developer from Brno</h3>
-
-##
-📫 How to reach me **klimes21@gmail.com**
-
-🤝 I am looking for a job as a Vue.js developer. I would be very happy if you could contact me.
 
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" >
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="nuxtjs" width="40" height="40"/> </a> 
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373940/nuxt.svg" alt="nuxtjs" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" alt="pinia" width="40" height="40"/> </a>
